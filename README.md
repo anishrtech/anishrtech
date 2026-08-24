@@ -1,14 +1,7 @@
-<!--
-  FILL THESE IN BEFORE SHARING:
-    - [Your School] and graduation year in the About section
-    - Email and LinkedIn URL in the Contact section
-  Everything else is accurate and ready to go.
--->
-
 <h1 align="center">Anish</h1>
 
 <p align="center">
-  <b>Software engineering student building automation, computer vision, and full-stack systems.</b>
+  <b>Computer engineering student building automation, computer vision, and full-stack systems.</b>
 </p>
 
 <p align="center">
@@ -26,11 +19,8 @@
 
 ## About
 
-I build software that removes work a person would otherwise have to do by hand — browser automation, real-time computer vision, and local machine learning that runs without a cloud dependency.
-
-Most of my projects start the same way: something is tedious or impossible to do manually, there is no API for it, and the only path forward is to build the whole pipeline. That constraint is what I find interesting, and it is why my work tends to span perception, decision-making, and actuation rather than a single layer.
-
-I am currently a student at **[Your School]** (Class of **[Year]**) seeking a **Software Engineering Internship**, with a particular interest in healthcare technology — a domain where reliability, privacy, and automation at scale genuinely matter.
+I mostly create software that automates work people would normally do by hand. This includes browser automation, real-time computer vision, and focuses on local machine learning that runs without the cloud.
+I am currently a student at the **University of Minnesota: Twin Cities** (Class of **2030**).
 
 ---
 
@@ -44,7 +34,7 @@ Implements the `scrcpy` wire protocol directly against a raw ADB socket and deco
 
 `Python` `OpenCV` `NumPy` `PyAV` `ADB` `scrcpy`
 
-### [Speak — Offline GPU Dictation](https://github.com/anishrtech/speak-local-dictation)
+### [Speak: Offline GPU Dictation](https://github.com/anishrtech/speak-local-dictation)
 
 A Windows desktop app that transcribes speech to punctuated, formatted text entirely on-device and injects it into whatever application has focus. No cloud APIs, no audio ever leaving the machine.
 
