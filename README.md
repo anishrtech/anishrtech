@@ -14,12 +14,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 </p>
+
 ---
 
 <p align="center">
   <img src="https://anishrtech-stats.vercel.app/api?username=anishrtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img src="https://anishrtech-stats.vercel.app/api/top-langs?username=anishrtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
+
 ---
 
 ## About
