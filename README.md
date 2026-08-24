@@ -14,12 +14,17 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
 </p>
+---
 
+<p align="center">
+  <img src="https://anishrtech-stats.vercel.app/api?username=anishrtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://anishrtech-stats.vercel.app/api/top-langs?username=anishrtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 ---
 
 ## About
 
-I mostly create software that automates work people would normally do by hand. This includes browser automation, real-time computer vision, and focuses on local machine learning that runs without the cloud.
+I mostly create software that automates work people would normally do by hand. This includes browser automation, real-time computer vision, and focuses on local machine learning that runs without the cloud.<b></b>
 I am currently a student at the **University of Minnesota: Twin Cities** (Class of **2030**).
 
 ---
@@ -28,7 +33,7 @@ I am currently a student at the **University of Minnesota: Twin Cities** (Class 
 
 ### [Block Blast Vision Bot](https://github.com/anishrtech/blockblast-vision-bot)
 
-A closed-loop autonomous agent that reads a live Android screen over USB, reconstructs game state with computer vision, plans an optimal move sequence with beam search, and executes the plan as real touch input — all at interactive frame rates.
+A closed-loop autonomous agent that reads a live Android screen over USB, reconstructs game state with computer vision, plans an optimal move sequence with beam search, and executes the plan as real touch input while at high frame rates.
 
 Implements the `scrcpy` wire protocol directly against a raw ADB socket and decodes H.264 in-process, achieving roughly 30 FPS where repeated screenshot calls cap out near 1 FPS. Piece detection is fully self-calibrating: it estimates background color per tray slot in HSV rather than hard-coding any colors, so it survives the game's changing themes.
 
@@ -73,24 +78,6 @@ Isolates the browser-only WebGL context behind a dynamic import with SSR disable
 
 ---
 
-## How I Build
-
-- **Fix the cause, not the symptom.** A guard belongs in the shared function, not in each caller.
-- **No secrets in source.** Configuration comes from the environment and is validated at startup so failures are loud and immediate.
-- **Non-trivial logic ships with a runnable check.** Every project here has one that runs without a test framework.
-- **The best code is the code never written.** Reach for the standard library and platform features before adding a dependency.
-
----
-
-<p align="center">
-  <img src="https://anishrtech-stats.vercel.app/api?username=anishrtech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://anishrtech-stats.vercel.app/api/top-langs?username=anishrtech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
 ## Contact
 
-- Email: **[your.email@example.com]**
-- LinkedIn: **[linkedin.com/in/your-profile]**
-- GitHub: [@anishrtech](https://github.com/anishrtech)
+- Email: **[anishr2008@gmail.com]**
