@@ -26,7 +26,7 @@
 
 ## About
 
-I mostly create software that automates work people would normally do by hand. This includes browser automation, real-time computer vision, and focuses on local machine learning that runs without the cloud.\n
+I mostly create software that automates work people would normally do by hand. This includes browser automation, real-time computer vision, and focuses on local machine learning that runs without the cloud.  
 I am currently a student at the **University of Minnesota: Twin Cities** (Class of **2030**).
 
 ---
